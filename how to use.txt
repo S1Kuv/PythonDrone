@@ -25,4 +25,4 @@ You don't need to use the terminal. You can run the scripts directly inside the 
 1. Right-click on the script you want to run in the project tool window on the left side:
    - **For Autonomous Tracking:** Right-click `Autonomous_human_lock_flight.py` and select **Run**.
    - **For Manual Controller Flight:** Connect your PS5 controller to your computer via USB or Bluetooth. Then right-click `Finall_Ps5_controller.py` and select **Run**.
-2. To stop the drone safely at any time, click the red **Stop button** (square icon) in the PyCharm run tool window.
+2. To stop the drone safely at any time, click the red **Stop button** (square icon) in the PyCharm run tool window. 
